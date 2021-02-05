@@ -1,0 +1,596 @@
+# Translation of Plugins - WooCommerce Event Manager - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Event Manager - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-28 12:11:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Event Manager - Development (trunk)\n"
+
+#: templates/single/ticket_type_list.php:6
+#: templates/single/extra_service_list.php:19
+msgid "Left:"
+msgstr "Disiponibles:"
+
+#: inc/mep_functions.php:1419
+msgid "End"
+msgstr "Final"
+
+#: inc/admin_setting_panel.php:241
+msgid "When will event expire"
+msgstr "Cuándo vencerá el evento"
+
+#: inc/admin_setting_panel.php:637
+msgid "Enter the text which you want to display as Event Expired."
+msgstr "Introduce el texto que quieres mostrar para un evento vencido."
+
+#: inc/mep_event_meta.php:115
+msgid "Reset Booking Count :"
+msgstr "Restablecer el contador de reservas:"
+
+#: inc/mep_functions.php:1806
+msgid "Seats"
+msgstr "Asientos"
+
+#: inc/mep_event_meta.php:30
+msgid "Event Tax"
+msgstr "Impuesto del evento"
+
+#: woocommerce-event-press.php:46
+msgid "You Must Install WooCommerce Plugin before activating WooCommerce Event Manager, Becuase It is dependent on Woocommerce Plugin"
+msgstr "Debes instalar el plugin WooCommerce antes de activar WooCommerce Event Manager, porque depende del plugin WooCommerce"
+
+#: inc/admin_setting_panel.php:62
+msgid "Translation Settings"
+msgstr "Ajustes de traducción"
+
+#: inc/admin_setting_panel.php:597
+msgid "Ticket Qty"
+msgstr "Cantidad de tiques"
+
+#: inc/admin_setting_panel.php:613
+msgid "Enter the text which you want to display as No Ticket Selected in event details page."
+msgstr "Introduce el texto que quieres que se muestre en la página de detalles cuando no se ha seleccionado ningún tique."
+
+#: inc/template-prts/single-mep_events_attendees.php:112
+msgid "Ticket No"
+msgstr "Tique nº"
+
+#: inc/mep_addon_list.php:8
+msgid "Get Addon"
+msgstr "Obtén la extensión"
+
+#: inc/admin_setting_panel.php:142
+msgid "Google Map Type?"
+msgstr "¿Tipo de mapa de Google?"
+
+#: inc/admin_setting_panel.php:612
+msgid "No Ticket Selected!"
+msgstr "¡No se ha seleccionado ningún tique!"
+
+#: inc/mep_tax_meta.php:246
+msgid "Map:"
+msgstr "Mapa:"
+
+#: inc/mep_tax_meta.php:11 inc/mep_tax_meta.php:210
+msgid "Location/Venue"
+msgstr "Ubicación/recinto"
+
+#: inc/admin_setting_panel.php:220
+msgid "Event Time Format"
+msgstr "Formato de hora del evento"
+
+#: inc/mep_event_meta.php:777
+msgid "Add New Day"
+msgstr "Añadir un nuevo día"
+
+#: inc/mep_event_meta.php:626
+msgid "FAQ Contents"
+msgstr "Contenidos de FAQ"
+
+#: inc/mep_event_meta.php:24
+msgid "Show Available Seat Count?"
+msgstr "¿Mostrar el número de asientos disponibles?"
+
+#: inc/mep_event_meta.php:22
+msgid "Registration Status"
+msgstr "Estado del registro"
+
+#: inc/mep_event_meta.php:18
+msgid "Template"
+msgstr "Plantilla"
+
+#: inc/admin_setting_panel.php:636
+msgid "Event Expired"
+msgstr "Evento vencido"
+
+#: inc/admin_setting_panel.php:620
+#: inc/template-prts/event_ticket_type_extra_service.php:24
+#: templates/single/ticket_type_list.php:39
+msgid "No Seat Available"
+msgstr "Na hay asientos disponibles"
+
+#: inc/admin_setting_panel.php:181
+msgid "Please select if you want to show event price in the list Yes/No"
+msgstr "Por favor, selecciona si quieres mostrar el precio del evento en el listado Sí/No"
+
+#: inc/admin_setting_panel.php:213
+msgid "Event Price Label"
+msgstr "Etiqueta de precio del evento"
+
+#: inc/admin_setting_panel.php:180
+msgid "Show Event Price in List?"
+msgstr "¿Mostrar el precio del evento en el listado?"
+
+#: inc/admin_setting_panel.php:214
+msgid "Enter The text which you want to show as price label, Its only displayed if Show Event price value is YES above. "
+msgstr "Introduce el texto que quieres mostrar como etiqueta de precio, solo se muestra si el valor de Mostrar el precio del evento es SÍ arriba."
+
+#: inc/admin_setting_panel.php:628 templates/single/extra_service_list.php:42
+msgid "Not Available"
+msgstr "No disponible"
+
+#: inc/mep_event_meta.php:190
+msgid "Show Available Seat?"
+msgstr "¿Mostrar asientos disponibles?"
+
+#: inc/mep_functions.php:1129
+msgid "Event"
+msgstr "Evento"
+
+#: inc/mep_functions.php:1287
+msgid "Status"
+msgstr "Estado"
+
+#: lib/classes/class-wc-product-data.php:21 inc/mep_functions.php:75
+msgid "Invalid product."
+msgstr "Producto no válido."
+
+#: templates/themes/theme-3.php:87
+msgid "About The Event"
+msgstr "Acerca del evento"
+
+#: templates/themes/theme-2.php:26 templates/themes/theme-1.php:84
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/admin_setting_panel.php:519 templates/themes/default-theme.php:53
+#: templates/themes/default-theme.php:77 templates/themes/theme-1.php:62
+#: templates/themes/theme-3.php:42 templates/themes/theme-3.php:92
+msgid "Event Location:"
+msgstr "Ubicación del evento:"
+
+#: inc/admin_setting_panel.php:533 templates/themes/default-theme.php:42
+msgid "Event Time:"
+msgstr "Hora del evento:"
+
+#: inc/admin_setting_panel.php:526 inc/mep_functions.php:2733
+#: templates/themes/default-theme.php:31
+msgid "Event Date:"
+msgstr "Fecha del evento:"
+
+#: inc/admin_setting_panel.php:541 templates/single/organizer.php:1
+msgid "By:"
+msgstr "Por:"
+
+#: templates/single/faq.php:2
+msgid "Event F.A.Q"
+msgstr "Preguntas frecuentes del evento"
+
+#: inc/admin_setting_panel.php:644 inc/mep_functions.php:1128
+msgid "Ticket"
+msgstr "Ticket"
+
+#: inc/admin_setting_panel.php:651 templates/single/total_seat.php:1
+msgid "Left"
+msgstr "Quedan"
+
+#: inc/mep_functions.php:1127 inc/mep_tax.php:93 inc/mep_tax.php:122
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/template-prts/event_add_cart.php:122
+#: inc/template-prts/event_add_cart.php:265
+msgid "Total"
+msgstr "Total"
+
+#: inc/admin_setting_panel.php:562 inc/template-prts/event_add_cart.php:117
+#: inc/template-prts/event_add_cart.php:260
+#: templates/single/extra_service_list.php:5
+msgid "Quantity:"
+msgstr "Cantidad:"
+
+#: inc/admin_setting_panel.php:555 inc/template-prts/event_add_cart.php:102
+#: inc/template-prts/event_add_cart.php:244
+msgid "Register Now:"
+msgstr "Registrar ahora:"
+
+#: inc/template-prts/single-mep_events_attendees.php:170
+msgid "Ticket Type"
+msgstr "Tipo de ticket"
+
+#: inc/template-prts/single-mep_events_attendees.php:165
+msgid "T Shirt Size"
+msgstr "Talla de camiseta"
+
+#: inc/template-prts/single-mep_events_attendees.php:127
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/template-prts/single-mep_events_attendees.php:152
+msgid "Gender"
+msgstr "Género"
+
+#: inc/template-prts/single-mep_events_attendees.php:158
+msgid "Vegetarian"
+msgstr "Vegetariano"
+
+#: inc/template-prts/single-mep_events_attendees.php:132
+msgid "Address"
+msgstr "Dirección"
+
+#: inc/mep_event_meta.php:933
+msgid "Add Extra Price"
+msgstr "Añadir precio extra"
+
+#: inc/mep_event_meta.php:869 inc/mep_event_meta.php:985
+msgid "Available Qty"
+msgstr "Cantidad disponible"
+
+#: inc/mep_event_meta.php:867
+msgid "Extra Service Name"
+msgstr "Nombre del servicio extra"
+
+#: templates/themes/theme-1.php:52 templates/themes/theme-3.php:32
+msgid "Date and Time:"
+msgstr "Fecha y hora:"
+
+#: inc/admin_setting_panel.php:548 templates/single/total_seat.php:1
+msgid "Total Seat:"
+msgstr "Asientos totales:"
+
+#: inc/admin_setting_panel.php:604 templates/single/ticket_type_list.php:46
+msgid "Per Ticket Price:"
+msgstr "Precio por entrada:"
+
+#: templates/single/ticket_type_list.php:12
+msgid "Ticket Qty:"
+msgstr "Nº de entradas:"
+
+#: inc/template-prts/single-mep_events_attendees.php:142
+msgid "Company"
+msgstr "Empresa"
+
+#: inc/mep_tax.php:28 inc/mep_tax.php:64
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: inc/mep_tax.php:25 inc/mep_tax.php:61
+msgid "Choose from the most used"
+msgstr "Selecciona desde las más usadas"
+
+#: inc/template-prts/single-mep_events_attendees.php:137
+msgid "Designation"
+msgstr "Denominación"
+
+#: inc/mep_event_meta.php:1054
+msgid "Add New Ticket Type"
+msgstr "Añadir un nuevo tipo de entrada"
+
+#: inc/mep_event_meta.php:984
+msgid "Ticket Price"
+msgstr "Precio de la entrada"
+
+#: inc/mep_event_meta.php:983
+msgid "Ticket Type Name"
+msgstr "Nombre del tipo de entrada"
+
+#: inc/mep_event_meta.php:870 inc/mep_event_meta.php:989
+msgid "Qty Box Type"
+msgstr "Tipo de casilla de cantidad"
+
+#: inc/mep_event_meta.php:868
+msgid "Service Price"
+msgstr "Precio del servicio"
+
+#: inc/mep_event_meta.php:610 inc/mep_event_meta.php:628
+#: inc/mep_event_meta.php:747 inc/mep_event_meta.php:766
+#: inc/mep_event_meta.php:897 inc/mep_event_meta.php:922
+#: inc/mep_event_meta.php:1023 inc/mep_event_meta.php:1046
+#: inc/mep_event_meta.php:1144 inc/mep_event_meta.php:1167
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/mep_event_meta.php:541
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/mep_event_meta.php:539 inc/mep_event_meta.php:893
+#: inc/mep_event_meta.php:917 inc/mep_event_meta.php:1018
+#: inc/mep_event_meta.php:1043
+msgid "Dropdown List"
+msgstr "Lista desplegable"
+
+#: inc/mep_event_meta.php:527
+msgid "Show Quantity Box"
+msgstr "Mostrar casilla de cantidad"
+
+#: inc/mep_event_meta.php:526
+msgid "Input Type"
+msgstr "Tipo de entrada"
+
+#: inc/mep_event_meta.php:524
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: inc/mep_event_meta.php:523
+msgid "Price"
+msgstr "Precio"
+
+#: inc/mep_event_meta.php:522
+msgid "Price Label"
+msgstr "Etiqueta de precio"
+
+#: inc/mep_event_meta.php:329
+msgid "Show Google Map:"
+msgstr "Mostrar mapa de Google:"
+
+#: inc/mep_tax_meta.php:36 inc/mep_tax_meta.php:240 inc/mep_event_meta.php:325
+msgid "Country:"
+msgstr "País:"
+
+#: inc/mep_tax_meta.php:31 inc/mep_tax_meta.php:234 inc/mep_event_meta.php:318
+msgid "Postcode:"
+msgstr "Código postal:"
+
+#: inc/mep_tax_meta.php:21 inc/mep_tax_meta.php:222 inc/mep_event_meta.php:304
+msgid "City:"
+msgstr "Ciudad:"
+
+#: inc/mep_tax_meta.php:16 inc/mep_tax_meta.php:216 inc/mep_event_meta.php:297
+msgid "Street:"
+msgstr "Calle:"
+
+#: inc/admin_setting_panel.php:734
+msgid "Calender Button Background Color"
+msgstr "Color de fondo del botón del calendario"
+
+#: inc/admin_setting_panel.php:728
+msgid "Cart Button Text Color"
+msgstr "Color del texto del botón del carrito"
+
+#: inc/admin_setting_panel.php:722
+msgid "Cart Button Background Color"
+msgstr "Color de fondo del botón del carrito"
+
+#: inc/admin_setting_panel.php:716
+msgid "Label Text Color"
+msgstr "Color del texto de la etiqueta"
+
+#: inc/admin_setting_panel.php:710
+msgid "Label Background Color"
+msgstr "Color de fondo de la etiqueta"
+
+#: inc/admin_setting_panel.php:491
+msgid "Social Share Label"
+msgstr "Etiqueta de compartir en redes sociales"
+
+#: inc/admin_setting_panel.php:477
+msgid "Cart Button Label"
+msgstr "Etiqueta del botón del carrito"
+
+#: inc/admin_setting_panel.php:470
+msgid "Extra Service Table Label"
+msgstr "Etiqueta de tabla de servicio adicional"
+
+#: inc/admin_setting_panel.php:463
+msgid "Ticket Type Table Label"
+msgstr "Etiqueta de tabla del tipo de entrada"
+
+#: inc/admin_setting_panel.php:433 inc/admin_setting_panel.php:434
+msgid "Email Form Name"
+msgstr "Nombre del formulario de correo electrónico"
+
+#: inc/admin_setting_panel.php:172 inc/admin_setting_panel.php:173
+msgid "Event Details Template"
+msgstr "Plantilla de detalles del evento"
+
+#: inc/admin_setting_panel.php:54
+msgid "Email Settings"
+msgstr "Ajustes de correo electrónico"
+
+#: inc/admin_setting_panel.php:50
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/mep_tax_meta.php:26 inc/mep_tax_meta.php:228 inc/mep_event_meta.php:311
+msgid "State:"
+msgstr "Estado:"
+
+#: inc/mep_event_meta.php:133
+msgid "Registration On/Off:"
+msgstr "Registro Encendido/Apagado:"
+
+#: inc/admin_setting_panel.php:753
+msgid "Select a color for FAQ Title Text"
+msgstr "Selecciona un color para el texto del título de las preguntas frecuentes"
+
+#: inc/admin_setting_panel.php:752
+msgid "FAQ Title Text Color"
+msgstr "Color del texto del título de las FAQ"
+
+#: inc/admin_setting_panel.php:747
+msgid "Select a color for FAQ title Background"
+msgstr "Selecciona un color para el fondo del título de las FAQ"
+
+#: inc/admin_setting_panel.php:746
+msgid "FAQ Title Background Color"
+msgstr "Color del fondo del título de las FAQ"
+
+#: inc/admin_setting_panel.php:741
+msgid "Select a color for Calender Button Text"
+msgstr "Seleccione un color para el texto del botón del calendario"
+
+#: inc/admin_setting_panel.php:740
+msgid "Calender Button Text Color"
+msgstr "Color del texto del botón del calendario"
+
+#: inc/admin_setting_panel.php:735
+msgid "Select a color for Calender Button Background"
+msgstr "Selecciona un color para el fondo del botón del calendario"
+
+#: inc/admin_setting_panel.php:729
+msgid "Select a color for Cart Button Text"
+msgstr "Selecciona un color para el texto del botón del carrito"
+
+#: inc/admin_setting_panel.php:723
+msgid "Select a color for Cart Button Background"
+msgstr "Selecciona un color para el fondo del botón del carrito"
+
+#: inc/admin_setting_panel.php:717
+msgid "Select a Color Label Text"
+msgstr "Selecciona un color para el texto de la etiqueta"
+
+#: inc/mep_event_meta.php:1186
+msgid "Confirmation Email Text:"
+msgstr "Texto del correo electrónico de confirmación:"
+
+#: inc/template-prts/single-mep_events_attendees.php:122
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/mep_event_meta.php:638
+msgid "Add New F.A.Q"
+msgstr "Añadir nueva F.A.Q"
+
+#: inc/mep_event_meta.php:538 inc/mep_event_meta.php:892
+#: inc/mep_event_meta.php:916 inc/mep_event_meta.php:1017
+#: inc/mep_event_meta.php:1043
+msgid "Input Box"
+msgstr "Cuadro de entrada"
+
+#: inc/mep_event_meta.php:289
+msgid "Location/Venue:"
+msgstr "Ubicación/Lugar:"
+
+#: inc/admin_setting_panel.php:704
+msgid "Base Color"
+msgstr "Color de base"
+
+#: inc/admin_setting_panel.php:452 inc/admin_setting_panel.php:453
+msgid "Confirmation Email Text"
+msgstr "Texto del correo electrónico de confirmación"
+
+#: inc/admin_setting_panel.php:446 inc/admin_setting_panel.php:447
+msgid "Email Subject"
+msgstr "Asunto del correo electrónico"
+
+#: inc/admin_setting_panel.php:154
+msgid "Google Map API Key"
+msgstr "Clave de API de Google Maps"
+
+#: inc/admin_setting_panel.php:58
+msgid "Style Settings"
+msgstr "Ajuste de estilo"
+
+#: inc/admin_setting_panel.php:440 inc/admin_setting_panel.php:441
+msgid "Form Email"
+msgstr "Formulario de correo electrónico"
+
+#: inc/template-prts/single-mep_events_attendees.php:147
+msgid "Website"
+msgstr "Web"
+
+#: inc/mep_event_meta.php:915
+msgid "Please Select Type"
+msgstr "Por favor, selecciona el tipo"
+
+#: inc/admin_setting_panel.php:711
+msgid "Select a Color Label Background"
+msgstr "Selecciona un color para el fondo de la etiqueta"
+
+#: inc/admin_setting_panel.php:705
+msgid "Select a Basic Color, It will chanage the icon background color, border color"
+msgstr "Selecciona un Color Básico, hará que cambie el color de fondo del icono, el color del borde"
+
+#: inc/admin_setting_panel.php:464
+msgid "Enter the text which you want to display as ticket type table in event details page."
+msgstr "Introduce el texto que deseas mostrar como tabla de tipos de entrada en la página de detalles del evento."
+
+#: inc/admin_setting_panel.php:471
+msgid "Enter the text which you want to display as extra service table in event details page."
+msgstr "Introduce el texto que deseas mostrar como tabla de servicios extra en la página de detalles del evento."
+
+#: inc/admin_setting_panel.php:478
+msgid "Enter the text which you want to display in Cart button in event details page."
+msgstr "Introduce el texto que deseas mostrar en el botón del carrito en la página de detalles del evento."
+
+#: inc/admin_setting_panel.php:492
+msgid "Enter the text which you want to display as share button title in event details page."
+msgstr "Introduce el texto que deseas mostrar como título del botón compartir en la página de detalles del evento."
+
+#: inc/admin_setting_panel.php:485
+msgid "Enter the text which you want to display in Add you calender in event details page."
+msgstr "Introduce el texto que deseas mostrar en «Añadir su calendario» en la página de detalles del evento."
+
+#: inc/admin_setting_panel.php:484
+msgid "Add Calendar Button Label"
+msgstr "Añadir etiqueta de botón de calendario"
+
+#: inc/admin_setting_panel.php:498 templates/list/default.php:53
+msgid "Organized By:"
+msgstr "Organizador:"
+
+#: inc/admin_setting_panel.php:512 templates/list/default.php:89
+msgid "Time:"
+msgstr "Hora:"
+
+#: inc/template-prts/event_list_tax_name_list.php:19
+#: inc/template-prts/event_list_tax_name_list.php:45
+msgid "All"
+msgstr "Todo"
+
+#: inc/mep_functions.php:2731
+msgid "Ticket Type: "
+msgstr "Tipo de tique: "
+
+#: inc/mep_functions.php:2721
+msgid "T-Shirt Size: "
+msgstr "Talla de la camiseta: "
+
+#: inc/mep_functions.php:2729
+msgid "Vegetarian: "
+msgstr "Vegetariano: "
+
+#: inc/mep_functions.php:2719
+msgid "Gender: "
+msgstr "Género: "
+
+#: inc/mep_functions.php:2715
+msgid "Phone: "
+msgstr "Teléfono: "
+
+#: inc/mep_functions.php:2725
+msgid "Designation: "
+msgstr "Nombramiento: "
+
+#: inc/mep_functions.php:2723
+msgid "Company: "
+msgstr "Empresa: "
+
+#: inc/mep_functions.php:2727
+msgid "Website: "
+msgstr "Web: "
+
+#: inc/mep_functions.php:2713
+msgid "Email: "
+msgstr "Correo electrónico: "
+
+#: lib/classes/class-form-fields-generator.php:9315
+#: lib/classes/class-form-fields-wrapper.php:8180
+msgid "download"
+msgstr "descarga"
